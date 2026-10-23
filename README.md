@@ -1,8 +1,11 @@
 # Actividad Clase Tarea 5 – Continuación Bloomberg y cuestionario Datos Panel
 
 **Econometría Financiera – FZ4038** | EGADE Business School, Tecnológico de Monterrey
+
 **Profesor:** Dr. Raymundo Díaz Robles
+
 **Alumno:** Daniel Mondragón Monroy (A01452205)
+
 **Fecha:** 25 de octubre de 2026
 
 ## Contenido
